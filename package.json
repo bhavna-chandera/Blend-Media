@@ -1,5 +1,8 @@
 {
   "name": "blend-media",
+  "homepage": "https://your-username.github.io/blend-media/"
+
+}
   "private": true,
   "version": "0.0.0",
   "type": "module",
